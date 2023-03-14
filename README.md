@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Front and Back end development
 - 💞️ I’m looking to collaborate on any project that can help me grow
-- 📫 How to reach me: INSTAGRAM @s.j0jo_dev / LINKEDIN Catalina Gacea
+- 📫 How to reach me: INSTAGRAM @j.catalina_dev / LINKEDIN Catalina Gacea
 
 <!---
 kcat4lina/kcat4lina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
