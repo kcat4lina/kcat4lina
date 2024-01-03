@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on Medium https://medium.com/@gaceaj, Codecademy, Stack Overflow.
 
-- 💬 Ask me about **JS, TS, React, Python, Three.js, Blender, Spline, Unity**
+- 💬 Ask me about **JS, TS, React, Python, Three.js, Blender, Spline, Unity, AI**
 
 - 📫 How to reach me **cat4lina@live.it**
 
