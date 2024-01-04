@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **improving my skills and knowledge**
 
-- 📝 I regularly write articles on Medium https://medium.com/@gaceaj, Codecademy, Stack Overflow.
+- 📝 I regularly write articles on [Medium](https://medium.com/@gaceaj), Codecademy, Stack Overflow.
 
 - 💬 Ask me about **JS, TS, React, Python, Three.js, Blender, Spline, Unity, AI**
 
