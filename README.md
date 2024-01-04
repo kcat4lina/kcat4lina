@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **cat4lina@live.it**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joana-catalina-gacea](https://www.linkedin.com/in/joana-catalina-gacea)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/joana-catalina-gacea)
 
-- 🗂️ Visit my Portfolio at [https://portfolio-catalina.netlify.app/](https://portfolio-joana-catalina.netlify.app/)
+- 🗂️ Visit my Portfolio at [Portfolio](https://portfolio-joana-catalina.netlify.app/)
 
 - ⚡ Fun fact **...I'm a veterinary surgeon as well >D**
 
