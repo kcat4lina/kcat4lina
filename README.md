@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joana-catalina-gacea](https://www.linkedin.com/in/joana-catalina-gacea)
 
-- 🗂️ Visit my Portfolio at https://portfolio-catalina.netlify.app/
+- 🗂️ Visit my Portfolio at [https://portfolio-catalina.netlify.app/](https://portfolio-joana-catalina.netlify.app/)
 
 - ⚡ Fun fact **...I'm a veterinary surgeon as well >D**
 
