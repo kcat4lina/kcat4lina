@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JS, TS, React, Python, Three.js, Blender, Spline, Unity, AI**
 
-- 📫 How to reach me **cat4lina@live.it**
+- 📫 How to reach me >>> **cat4lina@live.it**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/joana-catalina-gacea)
 
