@@ -48,4 +48,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kcat4lina&" alt="kcat4lina" /></p>
 
-[![Run Cypress Tests using Cypress Docker Image](https://github.com/kcat4lina/ATC/actions/workflows/manual.yml/badge.svg)](https://github.com/kcat4lina/ATC/actions/workflows/manual.yml)
