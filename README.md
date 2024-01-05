@@ -47,3 +47,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kcat4lina&show_icons=true&locale=en" alt="kcat4lina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kcat4lina&" alt="kcat4lina" /></p>
+
+[![Run Cypress Tests using Cypress Docker Image](https://github.com/kcat4lina/ATC/actions/workflows/manual.yml/badge.svg)](https://github.com/kcat4lina/ATC/actions/workflows/manual.yml)
