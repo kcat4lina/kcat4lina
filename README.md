@@ -2,8 +2,6 @@
 <h3 align="center">A passionate aspiring fullstack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcat4lina&label=Profile%20views&color=0e75b6&style=flat" alt="kcat4lina" /> </p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kcat4lina&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 # 💫 About Me:
 🔭 I’m currently working on automation testing and software development, including AI and Machine Learning.<br><br>🌱 I’m currently learning Machine Learning / AI Engineering<br><br>👯 I’m looking to collaborate on webapp development and software assets<br><br>🤝 I’m looking for help with improving my skills and knowledge<br><br>💬 Ask me about JS, TS, React, Python, Three.js, Blender, Spline, Unity, AI
@@ -18,6 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=kcat4lina&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kcat4lina&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kcat4lina&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kcat4lina&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -34,5 +35,6 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/joanacat) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@itsunshinejojo) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cat4lina) 
 
+  
   
 
