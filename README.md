@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcat4lina&label=Profile%20views&color=0e75b6&style=flat" alt="kcat4lina" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on automation testing and software development, including AI and Machine Learning.<br><br>🌱 I’m currently learning Machine Learning / AI Engineering<br><br>👯 I’m looking to collaborate on webapp, software and models development.<br><br>🤝 I’m looking for help with improving my skills and knowledge<br><br>💬 Ask me about JS, TS, React, Python, Three.js, Blender, Spline, Unity, AI.<br><br>📂 You can visit my portfolio at ![Portfolio](https://portfolio-joana-catalina.netlify.app/)
+🔭 I’m currently working on automation testing and software development, including AI and Machine Learning.<br><br>🌱 I’m currently learning Machine Learning / AI Engineering<br><br>👯 I’m looking to collaborate on webapp, software and models development.<br><br>🤝 I’m looking for help with improving my skills and knowledge<br><br>💬 Ask me about JS, TS, React, Python, Three.js, Blender, Spline, Unity, AI.<br><br>📂 You can visit my portfolio at [![Portfolio](https://portfolio-joana-catalina.netlify.app/)]
 
 
 ## 🌐 Socials:
