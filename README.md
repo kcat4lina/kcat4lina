@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joana Catalina</h1>
-<h3 align="center">A passionate aspiring fullstack engineer</h3>
+<h3 align="center">A passionate aspiring creative engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcat4lina&label=Profile%20views&color=0e75b6&style=flat" alt="kcat4lina" /> </p>
 
