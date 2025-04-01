@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on software development, including AI and Machine Learning. I've had also developed and implemented algorithms models for stocks trading such as real-time scanners and proce prediction for personal use.<br><br>🌱 I’m currently learning Machine Learning / AI Engineering<br><br>👯 I’m looking to collaborate on webapp, software and models development.<br><br>🤝 I’m looking for help with improving my skills and knowledge<br><br>💬 Ask me about JS, TS, Python, Three.js, Blender, Spline, Unity, AI, Finance.<br><br>
+🔭 I’m currently working on software development, virtual commissioning, also including AI and Machine Learning. I've had also developed and implemented algorithms models for stocks trading such as real-time scanners and proce prediction for personal use.<br><br>🌱 I’m currently learning Machine Learning / AI Engineering<br><br>👯 I’m looking to collaborate on webapp, software and models development.<br><br>🤝 I’m looking for help with improving my skills and knowledge<br><br>💬 Ask me about C#, JS, TS, Python, Three.js, Blender, Spline, Unity, AI, Finance.<br><br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sunshinejojo) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yS6d8YF) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k.c0co) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@gaceaj) 
